@@ -2,7 +2,7 @@
 
 #### aka Every Motherfucking Website
 
-This is a browser extension that removes every single bit of CSS from the current page, then replaces it with a stylesheet derived from the CSS found at http://bettermotherfuckingwebsite.com
+This is a browser extension that removes every single bit of CSS from the current page, then replaces it with a stylesheet derived from the CSS found at http://bettermotherfuckingwebsite.com (originally created by [@drew_mc](https://twitter.com/drew_mc) and [gabehammersmith](https://twitter.com/gabehammersmith))
 
 ## Usage
 
