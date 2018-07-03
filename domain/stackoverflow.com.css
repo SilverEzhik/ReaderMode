@@ -1,0 +1,21 @@
+.js-secondary-topbar-links, #left-sidebar, .votecell, .user-gravatar32, .-flair,
+.post-menu,
+.comment-voting, .comment-flagging,
+.comment-score,
+#sidebar, #post-editor, .js-add-link, .js-link-separator, .js-show-link,
+#post-form, .site-footer--nav, #prettify-lang
+{
+    display: none;
+}
+.post-signature, .comment-body > :not(.comment-copy) {
+    font-size: 14px;
+    opacity: 0.7;
+}
+.user-action-time, .user-details {
+    display: inline-block;
+}
+.user-action-time::after {
+    content: " by ";
+}
+
+
