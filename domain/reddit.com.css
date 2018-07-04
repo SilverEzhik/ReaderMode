@@ -1,0 +1,49 @@
+#jumpToContent, #sr-header-area, #header > :not(#header-bottom-left), #header .tabmenu, .side, .midcol,
+.buttons, .thumbnail,
+/* res comments */
+.res-commentNavToggle, .res-commentNavToggle-choices, .RESSubscriptionButton,
+.tagline > :not(.author),
+/* comments */
+.menuarea, .usertext-edit,
+/* bottom stuff */
+.gold-wrap, .footer-parent, #chat-app, #RESConsoleVersion, 
+/* res stuff */
+#NREFloat
+{
+    display: none;
+}
+
+#header-img {
+    max-width: 125px !important;
+    max-height: 73px !important;
+}
+.res-commentBoxes .comment, .comment {
+    margin: 0 0 10px -2px !important;
+    padding: 0 !important;
+    background-color: transparent !important;
+
+    border-left: #eee !important;
+    border-style: solid !important;
+    border-width: 0 0 0 10px !important;
+}
+.res-commentBoxes.res-commentBoxes-rounded .comment {
+    border-radius: 0 !important;
+}
+.comment .entry {
+    margin-left: 10px;
+}
+
+.linkflairlabel::before {
+    content: "[";
+}
+.linkflairlabel::after {
+    content: "] ";
+}
+.title {
+    font-size: 1.5em;
+    display: grid;
+}
+.tagline, .linkflairlabel, .domain {
+    font-size: 14px;
+    opacity: 0.7;
+}
