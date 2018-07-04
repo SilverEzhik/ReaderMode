@@ -18,4 +18,9 @@
     content: " by ";
 }
 
-
+.post-tag::before {
+    content: "[";
+}
+.post-tag::after {
+    content: "]";
+}
