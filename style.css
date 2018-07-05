@@ -22,3 +22,14 @@ a:hover {
 a:visited {
     color: #8a4b9a;
 }
+
+img {
+    max-width: 100%;
+}
+
+@media screen and (min-width: 650px) {
+    .menu > ul, header > ul, .header > ul, #header > ul {
+        columns: 3; 
+        list-style-type: none;
+    }
+}

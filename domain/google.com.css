@@ -1,0 +1,31 @@
+/* top */
+#csi, #top_nav, .jsrp, .TSPr2b, .qosSob, .spch, .appbar, #appbar, #taw,
+/* carousel */
+svg, .y8AWGd > :not(a), .k8B8Pc, .Rd246b,
+/* card */
+.sc5Lhd, .di8g3, .dWva8d, #knowledge-currency__error, .a5jSWc, .yp1CPe, #rhs,
+/* image result */
+.tHqoQ, .mM8lEe,
+/* search result */
+.AUiS2, .slp, .f, .oG4v5e, .kno-ftr,
+/* bottom */
+#footcnt, #fbar, .fbar, .gb_bb, .gb_xb
+{
+    display: none;
+}
+
+.P1usbc {
+    margin-top: 10px;
+}
+
+.rg_ul {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.obcontainer {
+    display: inline-flex;
+}
+.obcontainer > :not(:first-child) {
+    display: flex;
+}

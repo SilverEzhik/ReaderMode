@@ -1,0 +1,4 @@
+#mw-navigation, .mw-editsection, .mw-collapsible-toggle, .plainlinks.hlist,
+.printfooter, .catlinks, #footer, .mw-jump-link {
+    display: none;
+}
